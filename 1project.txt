@@ -1,2 +1,2 @@
-welcome to gihub 
+welcome to github 
 response back
